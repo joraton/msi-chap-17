@@ -30,7 +30,7 @@ const sections = [
     buttonColor: 'bg-purple-600'
   },
   {
-    title: 'Section III : Stratégies d&apos;Externalisation',
+    title: 'Section III : Stratégies Externalisation',
     description: 'Choix stratégiques et mise en œuvre',
     href: '/section-3',
     icon: BarChart3,
