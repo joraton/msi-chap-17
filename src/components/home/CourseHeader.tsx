@@ -28,7 +28,7 @@ export default function CourseHeader() {
               Chapitre 17 : L&apos;Externalisation
             </h1>
             <p className="text-blue-100 text-sm sm:text-base lg:text-lg mb-4 sm:mb-6">
-              Maîtrisez les concepts d&apos;externalisation, datacenters et cloud computing dans le cadre du DSCG UE5 - MSI
+              Maîtrisez les concepts externalisation, datacenters et cloud computing dans le cadre du DSCG UE5 - MSI
             </p>
 
             {/* Badges */}
